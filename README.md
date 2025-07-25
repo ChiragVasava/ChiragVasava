@@ -1,24 +1,31 @@
-<img align="right" height="150" src="https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"/>
+<h1 align="center">Hi 👋, I'm Chirag Vasava</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-###
+<p align="center">
+  <img src="https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" height="200" />
+</p>
 
-<h2 align="left">Hi 👋, I'm Chirag Vasava</h2>
-<h3 align="left">A passionate frontend developer from India</h3>
+---
+## 🔥 About Me
 
-###  
-<div align="center">
+- 🎯 Frontend Developer building responsive, scalable web apps using **HTML5**, **CSS3**, **TailwindCSS**, and **JavaScript**.
+- 💻 Currently working on: **Twitter (X.com) Clone UI using TailwindCSS**.
+- 🧠 Learning: **Advanced Tailwind**, **Next.js**, **UI Design Patterns**.
+- 🚀 Tools & Platforms:  
+  `TailwindCSS`, `VS Code`, `GitHub`, `Figma`, `ChatGPT` (for learning and troubleshooting)
+- ✨ Fun fact: I enjoy building pixel-perfect UIs and optimizing responsive layouts.
+
+---
+
+<div align="center"><br>
   
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiragvasava&" alt="chiragvasava"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chiragvasava&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150" alt="stats graph"  /><br>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=chiragvasava&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=chiragvasava&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=chiragvasava&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  /><br>
 
-<img src="https://streak-stats.demolab.com?user=chiragvasava&theme=react&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="chiragvasava streak" />
-
-
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chiragvasava&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"/><br> -->
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chiragvasava&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chiragvasava&hide_border=false&theme=react" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chiragvasava&hide_border=false&theme=react" height="150" alt="activity-graph graph"  /><br>
 </div>
 
 ###

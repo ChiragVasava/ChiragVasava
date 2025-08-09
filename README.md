@@ -8,9 +8,9 @@
 ---
 ## 🔥 About Me
 
-- 🎯 Frontend Developer building responsive, scalable web apps using **HTML5**, **CSS3**, **TailwindCSS**, and **JavaScript**.
-- 💻 Currently working on: **Twitter (X.com) Clone UI using TailwindCSS**.
-- 🧠 Learning: **Advanced Tailwind**, **Next.js**, **UI Design Patterns**.
+- 🎯 Front-end and Bakc-end Developer building responsive, scalable web apps using **HTML5**, **CSS3**,  **JavaScript** and **React.js**, **TailwindCSS**, **Next.js** 
+- 💻 Currently working on: **Password Manager using React, Tailwind, MongoDB & Express**.
+- 🧠 Learning: **Advanced Tailwind**, **React.js**, **Next.js**, **MongoDB**, **Express.js**, **Node.js**, **UI/UX Design Patterns**, **DSA With Java**.
 - 🚀 Tools & Platforms:  
   `TailwindCSS`, `VS Code`, `GitHub`, `Figma`, `ChatGPT` (for learning and troubleshooting)
 - ✨ Fun fact: I enjoy building pixel-perfect UIs and optimizing responsive layouts.

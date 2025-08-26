@@ -36,7 +36,7 @@
 
 <p align="left"> <a href="https://twitter.com/chiragv0007" target="blank"><img src="https://img.shields.io/twitter/follow/chiragv0007?logo=twitter&style=for-the-badge" alt="chiragv0007" /></a> </p>
 
-- 🔭 I’m currently working on MongoDB, Express.js, React.js, Node.js Stack, TailwindCSS And DSA with Java.
+- 🔭 I’m currently working on MongoDB, Express.js, React.js, Node.js Stack, TailwindCSS & Next.js And DSA with Java.
 
 - 👯 I’m looking to collaborate on [Spotify_Clone](https://github.com/ChiragVasava/Spotify_Clonne.git)
 

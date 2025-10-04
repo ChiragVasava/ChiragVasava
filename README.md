@@ -38,11 +38,11 @@
 
 - 🔭 I’m currently working on MongoDB, Express.js, React.js, Node.js Stack, TailwindCSS & Next.js And DSA with Java.
 
-- 👯 I’m looking to collaborate on [Spotify_Clone](https://github.com/ChiragVasava/Spotify_Clonne.git)
+- 👯 I’m looking to collaborate on [PlayLoud](https://github.com/ChiragVasava/PlayLoud.git)
 
-- 🤝 I’m looking for help with [Spotify_Clone](https://github.com/ChiragVasava/Spotify_Clonne.git)
+- 🤝 I’m looking for help with [PlayLoud](https://github.com/ChiragVasava/PlayLoud.git)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ChiragVasava](https://github.com/ChiragVasava)
+- 👨‍💻 All of my projects are available at My Profile [ChiragVasava](https://github.com/ChiragVasava)
 
 - 📫 How to reach me **v.chira.007@gmail.com**
 

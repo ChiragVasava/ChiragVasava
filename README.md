@@ -12,7 +12,7 @@
 
 <!-- Profile Views & Social Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=chiragvasava&label=Profile+Views&color=a78bfa&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ChiragVasava&label=Profile+Views&color=a78bfa&style=for-the-badge" alt="profile views" />
   <a href="https://x.com/chiragv0007"><img src="https://img.shields.io/twitter/follow/chiragv0007?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=0d1117" alt="Twitter" /></a>
   <a href="https://www.linkedin.com/in/chirag-vasava-050784273/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
   <a href="mailto:v.chira.007@gmail.com"><img src="https://img.shields.io/badge/Email-v.chira.007@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
@@ -102,21 +102,21 @@ const chirag = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chiragvasava&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&border_radius=12&hide_border=false&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_color=30363d" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ChiragVasava&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&border_radius=12&hide_border=false&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_color=30363d" height="170" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=chiragvasava&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=false&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_color=30363d" height="170" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=chiragvasava&mode=daily&theme=tokyonight&border_radius=12&hide_border=false&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6e6e&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9&border=30363d" height="165" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChiragVasava&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=false&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_color=30363d" height="170" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chiragvasava&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=302b63&hide_border=false&border_color=30363d&radius=12" alt="Contribution Graph" />
+<img src="https://streak-stats.demolab.com?user=ChiragVasava&mode=daily&theme=tokyonight&border_radius=12&hide_border=false&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6e6e&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9&border=30363d" height="165" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChiragVasava&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=302b63&hide_border=false&border_color=30363d&radius=12" alt="Contribution Graph" />
 
 </div>
 
@@ -125,7 +125,7 @@ const chirag = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chiragvasava&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&row=1" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ChiragVasava&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&row=1" alt="Trophies" />
 </div>
 
 ---

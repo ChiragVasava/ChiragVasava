@@ -1,16 +1,19 @@
+<!-- ██████████████████████████████████████████████████████████ -->
+<!-- ██         CHIRAG VASAVA | @ChiragVasava | README v2.0  ██ -->
+<!-- ██████████████████████████████████████████████████████████ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Chirag%20Vasava&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%20Craftsman%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+
+<!-- TYPING BANNER -->
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Chirag%20Vasava&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%20Craftsman%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
-
-<!-- Typing SVG -->
 <a href="https://github.com/ChiragVasava">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+pixel-perfect+web+experiences;MERN+Stack+%7C+Next.js+%7C+Tailwind+CSS;DSA+with+Java+%7C+Always+learning;Turning+ideas+into+scalable+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+pixel-perfect+web+experiences+%F0%9F%9A%80;MERN+Stack+%7C+Next.js+%7C+Tailwind+CSS;DSA+with+Java+%7C+Always+learning+%F0%9F%A7%A0;Turning+ideas+into+scalable+apps+%F0%9F%92%A1" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
+<!-- BADGES -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=ChiragVasava&label=Profile+Views&color=a78bfa&style=for-the-badge" alt="profile views" />
   <a href="https://x.com/chiragv0007"><img src="https://img.shields.io/twitter/follow/chiragv0007?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=0d1117" alt="Twitter" /></a>
@@ -19,6 +22,43 @@
 </p>
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 🖥️ SYSTEM BOOT
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   CHIRAG-OS  v3.0  [CSE • MSU Baroda • India 🇮🇳]               ║
+║                                                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║   USER ...... Chirag Vasava                                      ║
+║   ROLE ...... Full Stack Developer & UI Craftsman                ║
+║   STACK ..... MERN · Next.js · Tailwind · Java                  ║
+║   NET ....... github.com/ChiragVasava .......... [CONNECTED]    ║
+║                                                                  ║
+║   [✓] Loading React components ................ OK              ║
+║   [✓] Mounting Tailwind stylesheets ........... OK              ║
+║   [✓] Connecting to MongoDB ................... OK              ║
+║   [✓] Spinning up Express server .............. OK              ║
+║   [✓] Brewing caffeine ........................ OK              ║
+║   [✓] Compiling mass ambition ................. OK              ║
+║   [✓] console.log("Hello, World!") ........... OK              ║
+║                                                                  ║
+║   ░▒▓████████████████████████████████████████▓▒░  100% READY   ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
@@ -37,11 +77,49 @@ const chirag = {
 };
 ```
 
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   ⚡ STR  ████████████████████░░░░  85%  [Frontend & UI/UX]    │
+│   🔧 DEX  ██████████████████░░░░░░  78%  [Backend & APIs]      │
+│   🧩 INT  █████████████████████░░░  90%  [Problem Solving]     │
+│   🎨 WIS  ███████████████████░░░░░  82%  [Design & UX]         │
+│   🤝 CHA  █████████████████░░░░░░░  75%  [Open Source]         │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ---
 
-## 🚀 Current Focus
+## 🚀 Active Processes
 
-<table>
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════╗
+║              ◄ ACTIVE PROCESSES ►                     ║
+╠═══════════════════════════════════════════════════════╣
+║                                                       ║
+║  PID   PROCESS                STATUS       CPU        ║
+║  ───   ──────────────────     ─────────    ────       ║
+║  001   Password Manager App   ● RUNNING    91%        ║
+║  002   DSA with Java          ● RUNNING    85%        ║
+║  003   Next.js + Tailwind     ● RUNNING    80%        ║
+║  004   Open Source Collab     ● RUNNING    72%        ║
+║  005   Drinking Coffee        ● RUNNING    99%        ║
+║                                                       ║
+╚═══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<table align="center">
   <tr>
     <td>🔭 Working on</td>
     <td>Password Manager — MERN Stack + TailwindCSS</td>
@@ -63,6 +141,8 @@ const chirag = {
     <td>v.chira.007@gmail.com</td>
   </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
@@ -96,9 +176,24 @@ const chirag = {
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ---
 
 ## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChiragVasava&theme=tokyonight" width="100%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChiragVasava&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChiragVasava&theme=tokyonight" width="49%" />
+
+</div>
 
 <div align="center">
 
@@ -120,6 +215,14 @@ const chirag = {
 
 </div>
 
+### 🧊 3D Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ChiragVasava/ChiragVasava/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -127,6 +230,8 @@ const chirag = {
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ChiragVasava&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&row=1" alt="Trophies" />
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
@@ -138,11 +243,25 @@ const chirag = {
   </a>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ---
 
 ## 🤝 Connect With Me
 
 <div align="center">
+
+```
+╔══════════════════════════════════════════════╗
+║   PORT    SERVICE         STATUS             ║
+╠══════════════════════════════════════════════╣
+║   :443    Twitter/X       ● CONNECTED        ║
+║   :443    LinkedIn        ● CONNECTED        ║
+║   :443    Instagram       ● CONNECTED        ║
+║   :443    LeetCode        ● CONNECTED        ║
+║   :443    GitHub          ● CONNECTED        ║
+╚══════════════════════════════════════════════╝
+```
 
 <a href="https://x.com/chiragv0007" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -153,9 +272,6 @@ const chirag = {
 <a href="https://www.instagram.com/ll.c_h_i_r_a_g_007.ll" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://fb.com/chirag vasava" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
 <a href="https://leetcode.com/ChiragVasava/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
@@ -165,21 +281,104 @@ const chirag = {
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ---
+
+## 💬 Dev Quote
 
 <div align="center">
 
-<!-- Snake animation -->
+```
+  _______________________________________________
+ /                                               \
+|  "I debug with console.log,                    |
+|   and I build with passion."                   |
+ \_______________________________________________/
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<!-- EASTER EGG -->
+<details>
+<summary><b><code>$ cat /dev/secret</code> 👈 click if you dare</b></summary>
+<br>
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────┐
+│                                              │
+│   YOU FOUND THE SECRET TERMINAL!             │
+│                                              │
+│   > You must be a curious developer.         │
+│   > That's a great quality.                  │
+│   > Here's a cookie: 🍪                      │
+│                                              │
+│   fun_facts.txt:                             │
+│   ├── console.log("I'm not ashamed") ✅      │
+│   ├── mass late-night debugger 🌙            │
+│   ├── pixel-perfect or not shipping 🎨       │
+│   ├── "it works on my machine" guy 🐳        │
+│   └── Tailwind class name memorizer 🧠       │
+│                                              │
+│   > Now go star the repo. 😉                 │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+</div>
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<!-- SNAKE -->
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chiragvasava/chiragvasava/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chiragvasava/chiragvasava/output/github-contribution-grid-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/chiragvasava/chiragvasava/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<br/>
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+<!-- FOOTER -->
+<div align="center">
 
-<sub>⭐ From <a href="https://github.com/ChiragVasava">ChiragVasava</a> — Built with passion, coffee, and a lot of console.log() 🚀</sub>
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   > Session terminated.                                          ║
+║   > All React components unmounted.                              ║
+║   > MongoDB connection closed.                                   ║
+║   > Contributions saved to disk.                                 ║
+║                                                                  ║
+║   > Thank you for visiting CHIRAG-OS.                            ║
+║   > Until next commit...  ⭐                                     ║
+║                                                                  ║
+║              [ chirag@universe:~$ █ ]                            ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%" />
+
+<div align="center">
+  <sub>⭐ From <a href="https://github.com/ChiragVasava">ChiragVasava</a> — Built with passion, coffee, and a lot of <code>console.log()</code> 🚀</sub>
 </div>

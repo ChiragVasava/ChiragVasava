@@ -393,17 +393,27 @@ const chirag = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChiragVasava&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&border_radius=12&hide_border=false&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_color=30363d" height="170" alt="GitHub Stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ChiragVasava&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&border_radius=12&hide_border=false&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_color=30363d" height="170" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChiragVasava&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=false&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_color=30363d" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChiragVasava&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=false&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_color=30363d" height="170" alt="Top Languages" /> -->
 
 </div>
+
+<!-- <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChiragVasava&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChiragVasava&theme=github_dark&utcOffset=5.5" />
+</p> -->
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChiragVasava&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChiragVasava&theme=tokyonight&utcOffset=5.5" width="49%" />
+</p>
 
 <div align="center">
 
 <!-- <img src="https://streak-stats.demolab.com?user=ChiragVasava&mode=daily&theme=tokyonight&border_radius=12&hide_border=false&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6e6e&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9&border=30363d" height="165" alt="GitHub Streak" /> -->
 
-<img src="https://streak-stats.demolab.com?user=ChiragVasava&mode=daily&theme=tokyonight&border_radius=12&hide_border=false&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6e6e&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9&border=30363d" height="165" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=ChiragVasava&mode=daily&theme=tokyonight&border_radius=12&hide_border=false&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6e6e&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9&border=30363d" height="165" alt="GitHub Streak" width="49%" />
 
 </div>
 

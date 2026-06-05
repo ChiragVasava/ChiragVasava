@@ -401,6 +401,8 @@ const chirag = {
 
 <div align="center">
 
+<!-- <img src="https://streak-stats.demolab.com?user=ChiragVasava&mode=daily&theme=tokyonight&border_radius=12&hide_border=false&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6e6e&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9&border=30363d" height="165" alt="GitHub Streak" /> -->
+
 <img src="https://streak-stats.demolab.com?user=ChiragVasava&mode=daily&theme=tokyonight&border_radius=12&hide_border=false&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6e6e&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9&border=30363d" height="165" alt="GitHub Streak" />
 
 </div>

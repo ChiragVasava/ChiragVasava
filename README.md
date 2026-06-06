@@ -423,18 +423,18 @@ const chirag = {
 
 </div>
 
-### 🟡 Pac-Man Contribution Graph
+<!-- ### 🟡 Pac-Man Contribution Graph -->
 
-<div align="center">
+<!-- <div align="center"> -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChiragVasava/ChiragVasava/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChiragVasava/ChiragVasava/output/pacman-contribution-graph.svg" />
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/ChiragVasava/ChiragVasava/output/pacman.svg" width="100%" />
+<!-- <picture> -->
+  <!-- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChiragVasava/ChiragVasava/output/pacman-contribution-graph-dark.svg" /> -->
+  <!-- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChiragVasava/ChiragVasava/output/pacman-contribution-graph.svg" /> -->
+  <!-- <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/ChiragVasava/ChiragVasava/output/pacman.svg" width="100%" /> -->
     <!-- <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/ChiragVasava/ChiragVasava/output/pacman-contribution-graph.svg" width="100%" /> -->
-</picture>
+<!-- </picture> -->
 
-</div>
+<!-- </div> -->
 
 ### 🧊 3D Contribution Graph
 

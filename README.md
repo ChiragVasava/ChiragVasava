@@ -325,7 +325,7 @@ const chirag = {
   <tr><th>Certificate</th><th>Credential</th></tr>
   <tr>
     <td>UI/UX Design with AI — industry-oriented training</td>
-    <td><a href="https://drive.google.com/file/d/1lpESOSXQ30ePfjXJI2Uv4l50OiRhTO7w/view?usp=sharing">View certificate</a></td>
+    <td><a href="https://drive.google.com/file/d/1lpESOSXq30ePfjXJI2Uv4l50OiRhTO7w/view?usp=sharing">View certificate</a></td>
   </tr>
   <tr>
     <td>Machine Learning with Python</td>
